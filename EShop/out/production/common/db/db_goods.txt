@@ -1,0 +1,1 @@
+[{"name":"橘子","price":"3.3","number":"20","brand":"柑橘","id":"1"},{"name":"香蕉","price":"3.5","number":"90","brand":"美人蕉","id":"2"},{"name":"山竹","price":"9.3","number":"110","brand":"山东山竹","id":"3"},{"name":"凤梨","price":"6.5","number":"80","brand":"台湾凤梨","id":"4"}]
